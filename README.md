@@ -2,7 +2,7 @@
 hello. I'm web publisher jiwon kim. 
 
 ### ✨ My skills
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 <!--
 **JiwooonKim/JiwooonKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
